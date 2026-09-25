@@ -107,7 +107,7 @@ export const galabau: GalabauConfig = {
     "teamSize": "",
     "machines": ""
   },
-  "claim": "Garten, Pflaster und Terrasse in Sandhausen.",
+  "claim": "Galabau Butzbach in Sandhausen",
   "heroSubline": "Von der Einfahrt bis zur fertigen Gartenanlage: Erdarbeiten, Pflaster, Terrasse, Zaun, Bewässerung und Pflege. Im Einsatz in Sandhausen, Heidelberg, Leimen, Walldorf und rund 40 km Umkreis.",
   "services": [
     {
@@ -154,7 +154,7 @@ export const galabau: GalabauConfig = {
           "a": "Kleinere Umgestaltungen dauern wenige Tage, komplette Neuanlagen mit Erdarbeiten und Terrasse meist mehrere Wochen. Den Zeitrahmen legen wir vor Baubeginn fest."
         }
       ],
-      "image": "/assets/leistungen/gartenneugestaltung-mit-beleuchtung.webp",
+      "image": "/assets/leistungen/gartenneugestaltung-neuanlage-hausgarten.webp",
       "estimate": {
         "minPerUnit": 120,
         "maxPerUnit": 320,
@@ -209,7 +209,7 @@ export const galabau: GalabauConfig = {
           "a": "Als Faustwert rund zwei Prozent, weg vom Gebäude. Wo das nicht geht, planen wir Rinnen oder Versickerung ein."
         }
       ],
-      "image": "/assets/leistungen/pflasterarbeiten-terrasse.webp",
+      "image": "/assets/leistungen/pflasterarbeiten-einfahrt-hof.webp",
       "estimate": {
         "minPerUnit": 90,
         "maxPerUnit": 210,
@@ -264,7 +264,7 @@ export const galabau: GalabauConfig = {
           "a": "Oft ja, mit Stelzlagern. Voraussetzung ist eine ausreichende Aufbauhöhe an der Tür und ein funktionierendes Gefälle."
         }
       ],
-      "image": "/assets/leistungen/terrassenbau-grossformatplatten-01.webp",
+      "image": "/assets/leistungen/terrassenbau-holzterrasse.webp",
       "estimate": {
         "minPerUnit": 140,
         "maxPerUnit": 380,
@@ -323,7 +323,7 @@ export const galabau: GalabauConfig = {
           "a": "Nicht immer. Viele Gemeinden haben eine Baumschutzsatzung, und zusätzlich gilt die gesetzliche Schonzeit. Wir sehen uns den Baum an und sagen Ihnen, ob eine Genehmigung nötig ist, bevor wir anrücken."
         }
       ],
-      "image": "/assets/leistungen/gartenpflege-heckenschnitt.webp",
+      "image": "/assets/leistungen/gartenpflege-rasenpflege.webp",
       "estimate": {
         "minPerUnit": 3,
         "maxPerUnit": 12,
@@ -378,7 +378,7 @@ export const galabau: GalabauConfig = {
           "a": "Bei Sichtschutzwänden und Toren ja. Bei leichten Zäunen genügen oft Einschlaghülsen, das entscheidet der Untergrund."
         }
       ],
-      "image": "/assets/leistungen/zaun-und-sichtschutz.webp",
+      "image": "/assets/leistungen/zaun-sichtschutz-lamellenzaun.webp",
       "estimate": {
         "minPerUnit": 90,
         "maxPerUnit": 320,

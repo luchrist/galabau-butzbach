@@ -26,9 +26,7 @@ export function Galerie() {
           </div>
           <div className="col-span-12 md:col-span-9">
             <h2 className="break-words font-display text-[32px] leading-[1.05] tracking-tight text-ink sm:text-[40px] md:text-[64px] lg:text-[78px]">
-              Von der Baustelle
-              <br />
-              <span className="italic text-laub-500">bis zur Übergabe.</span>
+              unsere <span className="italic text-laub-500">Referenzen</span>
             </h2>
           </div>
         </div>
